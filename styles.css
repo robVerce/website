@@ -1,0 +1,107 @@
+.sidebar-contact {
+  position: fixed;
+  top: 40px;
+  right: 2rem;
+  width: 280px;
+  text-align: left;
+}
+
+.headshot {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.sidebar-contact p {
+  margin: 0.4rem 0;
+  color: #444;
+  font-size: 0.98rem;
+}
+
+.sidebar-contact i {
+  display: inline-block;
+  width: 1.1rem;
+  text-align: center;
+  vertical-align: -0.05em;
+  position: relative;
+  left: 0.20rem;
+  margin-right: 0.35rem;
+}
+
+.btn-cv {
+  display: block;
+  text-align: center;
+  background: #0d6efd;
+  color: #fff !important;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 0.5rem 0.8rem;
+  margin: 0.8rem 0 1.2rem 0;
+}
+
+.btn-cv:hover {
+  background: #0b5ed7;
+}
+
+.btn-cv i {
+  margin-right: 0.35rem;
+}
+
+/* keep body text from running under the fixed contact card */
+#quarto-document-content {
+  margin-right: 310px;
+}
+
+h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.2rem;
+  margin-top: 2rem;
+}
+
+.job {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0.6rem 1rem;
+  margin: 0.8rem 0;
+}
+
+.job > summary {
+  cursor: pointer;
+  font-weight: 700;
+  list-style: none;
+}
+
+.job > summary::-webkit-details-marker {
+  display: none;
+}
+
+.job > summary::before {
+  content: "▸ ";
+  display: inline-block;
+  width: 1em;
+}
+
+.job[open] > summary::before {
+  content: "▾ ";
+}
+
+.job > summary .role-meta {
+  font-weight: 400;
+  color: #666;
+}
+
+.job[open] > summary {
+  margin-bottom: 0.6rem;
+}
+
+@media (max-width: 991.98px) {
+  .sidebar-contact {
+    position: static;
+    width: auto;
+    margin-bottom: 1.5rem;
+  }
+  #quarto-document-content {
+    margin-right: 0;
+  }
+}
