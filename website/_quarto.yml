@@ -4,8 +4,10 @@ project:
 
 website:
   title: "Roberto Vercellino"
-  site-url: "https://robverce.github.io/curriculum_vitae/"
+  site-url: "https://robverce.github.io/website/"
   favicon: headshot.jpeg
+  page-footer:
+    center: "© 2026 Roberto Vercellino · [Code & template on GitHub](https://github.com/robVerce/website) (MIT)"
 
 format:
   html:

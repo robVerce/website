@@ -1,0 +1,27 @@
+MIT License
+
+Copyright (c) 2026 Roberto Vercellino
+
+This license applies only to the code and template used to build this
+website (Quarto configuration, stylesheets, build scripts, and layout
+markup). It does NOT apply to personal content included on the site
+(resume text, work history, biography, and photos), which remains
+all rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of the code and template in this repository, to deal in it without
+restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies,
+and to permit persons to whom it is furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the code and template.
+
+THE CODE AND TEMPLATE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE CODE AND TEMPLATE OR THE USE OR
+OTHER DEALINGS IN THEM.
