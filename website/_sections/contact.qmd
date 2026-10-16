@@ -1,0 +1,19 @@
+::: {.sidebar-contact}
+![](headshot.jpeg){.headshot}
+
+<a class="btn-cv" href="CV_Vercellino.pdf" target="_blank" rel="noopener"><i class="bi bi-file-earmark-pdf"></i> CV PDF</a>
+
+📍 Milano, Italia
+
+📞 +39 (331)-472-2930
+
+📞 +1 (720)-592-4368
+
+✉️ [roberto.vercellino.rv@gmail.com](mailto:roberto.vercellino.rv@gmail.com)
+
+🎓 [Google Scholar](https://scholar.google.com/citations?user=7aA1TvEAAAAJ&hl=en)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/RobertoVercellino/)
+
+<i class="bi bi-github"></i> [GitHub](https://github.com/robVerce)
+:::

@@ -1,0 +1,90 @@
+## Work Experience
+
+<details class="job">
+<summary>Researcher III, Quantitative Decision Analysis & Optimization <span class="role-meta">— National Laboratory of the Rockies (NLR), Golden, CO · 2024 -- 2026</span></summary>
+
+[Center for Integrated Mobility Sciences](https://www.nlr.gov/transportation/research), National Laboratory of the Rockies (NLR)^[Until 2025, NLR was named and known as the *National Renewable Energy Laboratory (NREL)*.], Golden, Colorado, U.S.A. &nbsp;*(2024 -- 2026)*
+
+**[Athena Mobility](https://aeroportal.nlr.gov/athena/), U.S. Department of Energy, Vehicle Technology Office** *(2023 -- 2026)*
+
+- Developed transportation demand scenarios and infrastructure models to advise major U.S. airports on decarbonization strategies, informing **\$100+ million in long-term infrastructure investment decisions** and culminating in a briefing to the U.S. Secretary of Energy [@vercellino_athena_2024].
+- Served as primary analytical point-of-contact to executives from **10 of the largest U.S. airports**, conducting stakeholder interviews, assessing operational constraints, and identifying cost-effective infrastructure investment opportunities through the [Aeroportal](https://aeroportal.nlr.gov/).
+- Developed [EVI-Rental](https://www.nlr.gov/transportation/electric-vehicle-infrastructure-rental-car-tool), an event-driven Python simulation model estimating costs, infrastructure requirements, and load-flexibility opportunities from EV charging at rental car centers.
+- Built a parallel HPC workflow to run more than **5,000 Monte Carlo simulations**, quantifying tradeoffs between up-front infrastructure investments and decarbonization targets and identifying pathways achieving up to **41% in capital savings** [@vercellino_behind_meter_2025].
+
+**[EDGES](https://www.nlr.gov/transportation/evi-edges.html) Microgrid Optimization Model, U.S. Department of Energy** *(2022 -- 2026)*
+
+- Led technical development of the EDGES decision-support platform for long-term planning of distributed energy resource investments under evolving market, regulatory, and operational conditions [@campos_optimal_2024].
+- Developed stochastic optimization algorithms (Pyomo, CBC, Gurobi, Ipopt) for real-time economic dispatch and energy arbitrage of distributed energy resources, minimizing lifecycle costs and grid upgrade requirements [@campos_impact_2025].
+- Refactored the microgrid design-optimization layer, **reducing solution time from 48 hours to 2 hours (24$\times$)** by testing 5 derivative-free and surrogate-based optimization methods [@campos_parallel_2025].
+- **Delivered investment-focused recommendations across 10+ projects** for public-sector and industry clients, translating complex modeling outputs into actionable planning insights.
+
+**Data Center Energy Modeling, NLR Strategic Funding** *(2025 -- 2026)*
+
+- **Led a multidisciplinary team of 7 researchers** to develop a first-of-its-kind, bottom-up model of AI data center electricity demand, supporting grid infrastructure planning and capacity expansion studies [@vercellino_measurement_2026].
+- Directed a team of six in adapting AI benchmark workloads ([MLPerf](https://mlcommons.org/benchmarks), [vLLM](https://docs.vllm.ai/en/latest/)) and ran HPC experiments measuring server-level power consumption of re2026ative AI workloads (training, fine-tuning, inference).
+- Designed and executed reproducible experiments to address critical evidence gaps in AI infrastructure planning, publishing an open dataset and analysis to support industry and policy decision-making [@osti_3025227].
+
+**Microgrid EMT Simulation Models, Industry-funded** *(2025 -- 2026)*
+
+- **Scoped, negotiated, and led delivery** of an industry-funded project developing MATLAB/Simulink electromagnetic transient (EMT) models capturing sub-second interactions between AI data centers, EV fast charging, and microgrid assets.
+- **Recruited and coordinated a multidisciplinary team of 10 researchers**, managed project budgets and deliverables, and maintained ongoing engagement with the sponsoring organization throughout execution.
+
+**Grid Impacts of Electrification at U.S. Army Bases, U.S. Department of Defense** *(2025)*
+
+- Advised the U.S. Army on fleet electrification investment strategies across three military installations, simulating operation, grid impacts, and costs of five electrification scenarios using vehicle telematics and utilization data.
+- Integrated stakeholder interviews and sensitivity analysis to identify robust, cost-effective infrastructure pathways. **Co-authored findings within a report submitted to the U.S. Congress**.
+
+**HPC Analytics, NLR Strategic Funding** *(2025 -- 2026)*
+
+- Supported the ontology design and machine-readable mapping of power flows, telemetry, and control points to enable agentic AI orchestration of NLR's [HPC system](https://www.nlr.gov/hpc/kestrel-computing-system).
+
+</details>
+
+<details class="job">
+<summary>Researcher II, Quantitative Decision Analysis & Optimization <span class="role-meta">— National Renewable Energy Laboratory (NREL), Golden, CO · 2022 -- 2024</span></summary>
+
+[Center for Integrated Mobility Sciences](https://www.nlr.gov/transportation/research), National Renewable Energy Laboratory (NREL), Golden, Colorado, U.S.A. &nbsp;*(2022 -- 2024)*
+
+**Clean Transportation Program (CTP) Benefits Analysis, California Energy Commission (CEC)** *(2023 -- 2024)*
+
+- **Led a 6-person team** evaluating the environmental and socioeconomic impacts of more than **1,000 publicly funded transportation projects** representing **\$1.5 billion in investments**, supporting future portfolio and funding strategy for the CEC; results presented to CEC Commissioner Monahan [@roberto_vercellino_benefits_2025; @vercellino_analysis_2023].
+- Developed investment evaluation frameworks to quantify environmental and socioeconomic KPIs (e.g., $\mathrm{CO}_2$ reduced/\$ invested) across alternative funding strategies, reducing uncertainty and supporting risk-informed decision-making.
+- Identified, integrated, and validated relevant data from 20+ NREL, CEC, and public sources; automated the ETL cleaning and processing of 20+ spreadsheets of assumption parameters and project data.
+
+**Public Transit Electrification Study, New York Metropolitan Transportation Authority (MTA)** *(2023 -- 2024)*
+
+- Advised the New York MTA on public transit electrification strategies, simulating operation of an electrified bus depot to evaluate infrastructure requirements, charging loads, projected costs, and impact-mitigation opportunities using onsite battery storage and PV [@vercellino_evaluation_2023].
+
+**Microgrid Market Analysis, Industry-funded** *(2022 -- 2025)*
+
+- Conducted large-scale sensitivity analysis to evaluate how market conditions, policy environments, and technology adoption trends influence the economic value and risk profile of distributed energy investments.
+- Developed a **web application to process and visualize 58,000 U.S. utility tariffs** (SQL) from NREL's [Utility Rate Database](https://openei.org/wiki/Utility_Rate_Database), enabling stakeholders to identify high-value markets for EV charging, microgrid, and renewable energy investments.
+
+</details>
+
+<details class="job">
+<summary>Graduate Research Assistant <span class="role-meta">— Herber Research Group, Colorado State University, Fort Collins, CO · 2020 -- 2022</span></summary>
+
+[Herber Research Group](https://www.engr.colostate.edu/~drherber/), Colorado State University, Fort Collins, Colorado, U.S.A. &nbsp;*(2020 -- 2022)*
+
+**[FLECCS](https://www.engr.colostate.edu/%7Edrherber/files/Limb2021a.pdf) Project, U.S. Department of Energy, ARPA-E Program**
+
+- Constructed MATLAB dynamic models of natural gas combined-cycle power plants integrated with carbon capture and thermal energy storage [@vercellino_control_2022].
+- Implemented nested optimization to jointly determine optimal system design and control, maximizing economic value (NPV, LCOE) through energy arbitrage.
+- Evaluated the economic performance and $\mathrm{CO}_2$ emissions of more than 20 technology configurations across hundreds of current and future electricity market scenarios.
+- Delivered weekly update presentations to the team and contributed to 5 quarterly meetings with ARPA-E.
+
+</details>
+
+<details class="job">
+<summary>Laboratory Technician & Data Analysis Assistant <span class="role-meta">— MoVeIT Research Group, University of Torino, Torino, Italy · 2019</span></summary>
+
+MoVeIT Research Group, Medical Physics Department, University of Torino, Torino, Italy &nbsp;*(2019)*
+
+**MoVeIT Project, Centro Nazionale di Adroterapia Oncologica (CNAO)**
+
+- Designed and executed experiments (LabVIEW) to evaluate the performance and reliability of prototype instrumentation for hadron (cancer) therapy applications, including noise characterization of a custom ASIC interfaced with a prototype proton sensor.
+- Performed offline data analysis and curve fitting to quantify measurement uncertainty, assess system performance, and identify key limitations.
+
+</details>

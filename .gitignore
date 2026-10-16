@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+applications/
+cv_latex/
+cv_latex_unzip/
+cv_pdf
+roles/
+references/
+latest/
+code/
+CLAUDE.md
+
+.quarto/
+_site/

@@ -1,0 +1,6 @@
+## Professional Summary
+
+- Energy systems research engineer and quantitative analyst with 5 years of experience developing decision-support models, optimization software, and techno-economic analyses to guide infrastructure and investment decisions for government agencies, utilities, and industry partners.
+- Specialized in energy and power systems modeling, mathematical optimization, HPC-scale simulation, and financial/techno-economic analysis (NPV, IRR, LCOE) to evaluate complex investments under uncertainty.
+- Experienced leading multidisciplinary research and consulting projects end-to-end — from scoping and proposal development to execution and delivery — and translating rigorous quantitative analysis into strategic recommendations for executives, policymakers, and technical stakeholders.
+- Originally from Italy, I earned a basketball scholarship to study in the United States, where I began my professional career before relocating back to Milan. Fluent English and Italian speaker.

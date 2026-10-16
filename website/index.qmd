@@ -1,0 +1,27 @@
+---
+title: "Roberto Vercellino"
+nocite: |
+  @*
+---
+
+{{< include _sections/contact.qmd >}}
+
+{{< include _sections/summary.qmd >}}
+
+{{< include _sections/skills.qmd >}}
+
+{{< include _sections/education.qmd >}}
+
+{{< include _sections/work_experience.qmd >}}
+
+{{< include _sections/publications.qmd >}}
+
+{{< include _sections/teaching.qmd >}}
+
+{{< include _sections/honors_awards.qmd >}}
+
+{{< include _sections/community.qmd >}}
+
+{{< include _sections/languages.qmd >}}
+
+{{< include _sections/personal_interests.qmd >}}

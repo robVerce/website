@@ -1,0 +1,12 @@
+<!--
+## Profile & Skills
+
+- **Energy Systems & Markets:** Energy infrastructure planning, decarbonization, renewables, biofuels, nuclear energy, hydrogen, CCS&U, transportation electrification, EV charging, microgrids, distributed energy resources (DERs), battery energy storage systems (BESS), AI data centers, power systems and grid distribution, electricity markets (intraday, balancing, ancillary services), algorithmic bidding and automated real-time dispatch, energy arbitrage.
+- **Techno-Economic & Financial Analysis:** Discounted cash flow (DCF), investment appraisal (NPV, IRR, ROI, LCOE), asset valuation, business case development, scenario and sensitivity analysis, risk assessment and mitigation, business planning.
+- **Quantitative Decision Analysis & Optimization:** Decision-support modeling, mathematical optimization (linear, nonlinear, mixed-integer, stochastic, simulation-based, derivative-free, surrogate-based programming), model predictive control, Monte Carlo simulation, uncertainty quantification, forecasting, statistical analysis.
+- **Programming & Software Engineering:** Python (Pyomo, Pandas, NumPy, SciPy, SimPy, Scikit-Learn, PyTorch), MATLAB/Simulink, SQL, C/C++, Java, Bash, LabVIEW; solvers (Gurobi, CPLEX, Ipopt, CBC); version control (Git), code review, testing (pytest), CI/CD (GitHub Actions), Docker, technical documentation (Sphinx, MkDocs).
+- **HPC & Scalable Computing:** SLURM, MPI, multiprocessing, Apptainer containerization, large-scale parallel data processing, simulation and scenario analysis on high-performance computing systems.
+- **Machine Learning & AI:** Gradient-Boosted Trees, Random Forest, Gaussian Process, K-Means Clustering, feature engineering, AI workload benchmarking (MLPerf, vLLM), familiarity with distributed computing frameworks (e.g., Spark).
+- **Project Leadership & Delivery:** Project scoping, proposal development, budget management, multidisciplinary team leadership and mentorship, client relationship management, project delivery.
+- **Stakeholder Engagement & Communication:** C-suite and executive presentations, technical reporting, client workshops, stakeholder interviews, strategic briefings, congressional and regulatory reporting, big-picture narrative development.
+-->
